@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML Level Two Assignment</title>
+    </head>
+    <body>
+        <h1>Course Sign Up Page</h1>
+        <p>Please Note: First Name, Last Name, Password, and Email are required</p>
+        <form method="get" action = "welcome.html">
+            <label for="firstname">First Name:</label>
+            <input id="firstname" type = "text" name="name" placeholder="First Name" required = "true">
+            <label for="lastname">Last Name:</label>
+            <input id="lastname" type ="text" placeholder="Last Name" name = "name" required = "true">
+            <p></p>
+            <label for = "Email">Email: </label>
+            <input id = "Email" type = "email" name = "email" placeholder = "name@email.com" required = "true">
+            <label for = "password">Password: </label>
+            <input id = "password" type = "password" name = "password" required = "true">
+            <p></p>
+            <p>Are you over the age of 18?</p>
+            <label for = "age18">Yes: </label>
+            <input id = "yes" type = "radio" name = "age18">
+            <input id ="no" type = "radio" name = "age18">
+            <p>Do you have a Credit Card or PayPal?</p>
+            <select name = "payment">
+                <option value="1">Credit Card</option>
+                <option value="2">PayPal</option>
+            </select>
+            <p></p>
+            <input type = "submit" name = "" value = "Sign up">
+          
+    </body>
+</html>
