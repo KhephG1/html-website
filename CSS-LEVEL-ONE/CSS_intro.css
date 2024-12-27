@@ -1,0 +1,21 @@
+/*This is a comment*/
+/* Below is the general css file format
+selected tag{
+    property: value;
+} */
+
+h1{
+    color: green;
+}
+/* The line below assigns color with a rgb value */
+li{
+    color: rgb(255, 0, 238);
+}
+/* The example below uses a hex code to assign color */
+p{
+    color: #0000ff;
+}
+/* The example below uses the alpha parameter to assign a transparency */
+h4{
+    color: rgba(255, 0, 0, 0.644);
+}

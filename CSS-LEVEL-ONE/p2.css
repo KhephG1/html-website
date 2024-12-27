@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(0, 128, 0, 0.455)
+}
+/* the div tag alllows you to modify only a portion of the page */
+div{
+    background-color: rgba(0, 0, 255, 0.384);
+    border-color: maroon;
+    border-width: 10px;
+    border-style: dotted;
+}
+/* the span tag allows you to modify specific content within a div tag */
+span{
+    background-color:rgba(0, 255, 255, 0.564)
+}
+p{
+    color: rgb(0, 128, 0);
+}
