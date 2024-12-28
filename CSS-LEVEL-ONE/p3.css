@@ -1,0 +1,32 @@
+.firstDiv{
+    color:blue;
+}
+.secondDiv{
+    color:red;
+}
+/* The hashtag allows you to style an id */
+#singledout{
+    color:green;
+    text-decoration: line-through;
+}
+/* The asterix selects every element on the page. */
+/* Giving an element an id will override this */
+*{
+    color: black;
+}
+
+h3  + ul{
+    border: 4px dotted purple;
+}
+/* The plus sign allows you to select an element that is directly after another element */
+/* The greater than sign allows you to select an element that is a direct child of another element */
+/* The tilde allows you to select an element that is a sibling of another element */
+
+li a{
+    color: red;
+}
+
+li a[href="http://www.amazon.com"]{
+    color: pink;
+    border: 2px dashed red;
+}

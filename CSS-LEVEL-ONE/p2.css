@@ -1,6 +1,8 @@
+/* These are called selectors. They are used to select a specific element on a page. */
 body{
-    background-color: rgba(0, 128, 0, 0.455)
-}
+    background: url(https://hips.hearstapps.com/hmg-prod/images/champagne-beach-espiritu-santo-island-vanuatu-royalty-free-image-1655672510.jpg)
+}   
+
 /* the div tag alllows you to modify only a portion of the page */
 div{
     background-color: rgba(0, 0, 255, 0.384);

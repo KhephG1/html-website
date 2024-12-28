@@ -1,0 +1,62 @@
+body{
+    background-color: rgba(0, 255, 255, 0.532);
+}
+
+h1{
+    border-style: solid;
+    border-width: 3px;
+    border-color: grey;
+}
+
+div{
+    background-color: peachpuff;
+}
+
+h2{
+    color: purple;
+}
+
+#itemone{
+    color:purple;
+    border-width: 1px;
+    border-style: solid;
+    border-color: purple;
+}
+
+#textblock{
+    border-width: 4px;
+    border-color:grey;
+    border-style: solid;
+}
+.blogtext{
+    background-color: rgba(0, 255, 255, 0.432);
+}
+
+#mail{
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;  
+}
+
+#pass{
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;
+}
+
+input[type="submit"]{
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;
+}
+
+.exit{
+    background-color: blue;
+    border-width: 4px;
+    border-style: dashed;
+    border-color: peachpuff;
+    p{
+        background-color: peachpuff;
+    }
+}
+
