@@ -1,0 +1,42 @@
+h3{
+    font-family: "Doto", serif;
+    text-align: center;  
+}
+table{
+    margin: auto;
+    
+}
+td{
+    width: 10em;
+    height: 20em;
+    border: 15px solid white;
+}
+#one{
+    
+    background-color: #668586;
+    
+}
+
+#two{
+
+    background-color: #ED6A5A;
+
+}
+
+#three{
+
+    background-color: #FFD166;
+
+}
+
+#four{
+
+    background-color: #06D6A0;
+
+}
+
+#five{
+
+    background-color: #118AB2;
+
+}

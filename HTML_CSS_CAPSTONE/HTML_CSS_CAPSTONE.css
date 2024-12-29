@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(0, 212, 212, 0.712);
+}
+
+.content{
+    background-color: rgb(4, 4, 45);
+    margin: 10px 90px 10px 90px;
+    border-radius: 30px;
+}
+h1{
+    padding-top: 30px;
+}
+.text{
+    color: white;
+    text-align: center;
+    font-family: "Roboto", serif;
+}
+form{
+   text-align: center;
+   font-family: "Roboto", serif;
+   font-size:1.5em;
+}
+#p1{
+    margin: 50px 150px 50px 150px;
+}
+#p2{
+    margin: 50px 150px 50px 150px;
+}
+
+input[type= "submit"]{
+    background-color: orange;
+    border: 0px solid black;
+    margin: 10px 10px 10px 10px;
+    padding: 35px 15px 35px 15px;
+    color:black;
+    font-family: "Roboto", serif;
+    border-radius: 20px;
+    font-size: 1em;
+}

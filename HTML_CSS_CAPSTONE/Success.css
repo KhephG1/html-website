@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(0, 212, 212, 0.712);
+}
+
+text{
+    color: white;
+    text-align: center;
+    font-family: "Roboto", serif;
+    margin: 10px 90px 10px 90px;
+    border-radius: 30px;
+    padding: 10px 10px 10px 10px;
+}
